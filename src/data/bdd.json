@@ -1,0 +1,446 @@
+{
+  "value": [
+    {
+    "id": 1,
+    "email": "john.doe@example.com",
+    "name": "John",
+    "surname": "Doe",
+    "birth_date": "1985-03-15",
+    "gender": "Male",
+    "work": "CEO"
+  },
+    {
+      "id": 2,
+      "email": "jane.smith@example.com",
+      "name": "Jane",
+      "surname": "Smith",
+      "birth_date": "1990-07-20",
+      "gender": "Female",
+      "work": "Software Engineer"
+    },
+    {
+      "id": 3,
+      "email": "mike.jones@example.com",
+      "name": "Mike",
+      "surname": "Jones",
+      "birth_date": "1988-12-10",
+      "gender": "Male",
+      "work": "Marketing Manager"
+    },
+    {
+      "id": 4,
+      "email": "susan.wilson@example.com",
+      "name": "Susan",
+      "surname": "Wilson",
+      "birth_date": "1995-05-25",
+      "gender": "Female",
+      "work": "Accountant"
+    },
+    {
+      "id": 5,
+      "email": "david.brown@example.com",
+      "name": "David",
+      "surname": "Brown",
+      "birth_date": "1980-09-02",
+      "gender": "Male",
+      "work": "Teacher"
+    },
+    {
+      "id": 6,
+      "email": "emily.white@example.com",
+      "name": "Emily",
+      "surname": "White",
+      "birth_date": "1992-04-18",
+      "gender": "Female",
+      "work": "Product Manager"
+    },
+    {
+      "id": 7,
+      "email": "michael.clark@example.com",
+      "name": "Michael",
+      "surname": "Clark",
+      "birth_date": "1987-08-30",
+      "gender": "Male",
+      "work": "Architect"
+    },
+    {
+      "id": 8,
+      "email": "laura.miller@example.com",
+      "name": "Laura",
+      "surname": "Miller",
+      "birth_date": "1993-01-12",
+      "gender": "Female",
+      "work": "Nurse"
+    },
+    {
+      "id": 9,
+      "email": "steven.wilson@example.com",
+      "name": "Steven",
+      "surname": "Wilson",
+      "birth_date": "1984-06-28",
+      "gender": "Male",
+      "work": "Web Developer"
+    },
+    {
+      "id": 10,
+      "email": "amanda.davis@example.com",
+      "name": "Amanda",
+      "surname": "Davis",
+      "birth_date": "1994-11-05",
+      "gender": "Female",
+      "work": "HR Manager"
+    },
+    {
+      "id": 11,
+      "email": "robert.anderson@example.com",
+      "name": "Robert",
+      "surname": "Anderson",
+      "birth_date": "1983-02-22",
+      "gender": "Male",
+      "work": "Artist"
+    },
+    {
+      "id": 12,
+      "email": "sarah.johnson@example.com",
+      "name": "Sarah",
+      "surname": "Johnson",
+      "birth_date": "1991-06-15",
+      "gender": "Female",
+      "work": "Writer"
+    },
+    {
+      "id": 13,
+      "email": "william.moore@example.com",
+      "name": "William",
+      "surname": "Moore",
+      "birth_date": "1986-10-08",
+      "gender": "Male",
+      "work": "Financial Analyst"
+    },
+    {
+      "id": 14,
+      "email": "jennifer.wilson@example.com",
+      "name": "Jennifer",
+      "surname": "Wilson",
+      "birth_date": "1990-03-19",
+      "gender": "Female",
+      "work": "Sales Manager"
+    },
+    {
+      "id": 15,
+      "email": "daniel.taylor@example.com",
+      "name": "Daniel",
+      "surname": "Taylor",
+      "birth_date": "1982-07-14",
+      "gender": "Male",
+      "work": "Mechanical Engineer"
+    },
+    {
+      "id": 16,
+      "email": "linda.thomas@example.com",
+      "name": "Linda",
+      "surname": "Thomas",
+      "birth_date": "1994-12-03",
+      "gender": "Female",
+      "work": "Account Manager"
+    },
+    {
+      "id": 17,
+      "email": "richard.brown@example.com",
+      "name": "Richard",
+      "surname": "Brown",
+      "birth_date": "1981-01-25",
+      "gender": "Male",
+      "work": "Product Designer"
+    },
+    {
+      "id": 18,
+      "email": "mary.jones@example.com",
+      "name": "Mary",
+      "surname": "Jones",
+      "birth_date": "1989-05-11",
+      "gender": "Female",
+      "work": "Chemist"
+    },
+    {
+      "id": 19,
+      "email": "james.harris@example.com",
+      "name": "James",
+      "surname": "Harris",
+      "birth_date": "1987-09-09",
+      "gender": "Male",
+      "work": "Project Manager"
+    },
+    {
+      "id": 20,
+      "email": "elizabeth.martin@example.com",
+      "name": "Elizabeth",
+      "surname": "Martin",
+      "birth_date": "1993-04-08",
+      "gender": "Female",
+      "work": "Software Developer"
+    },
+    {
+      "id": 21,
+      "email": "margaret.anderson@example.com",
+      "name": "Margaret",
+      "surname": "Anderson",
+      "birth_date": "1984-08-17",
+      "gender": "Female",
+      "work": "Biologist"
+    },
+    {
+      "id": 22,
+      "email": "john.walker@example.com",
+      "name": "John",
+      "surname": "Walker",
+      "birth_date": "1986-11-26",
+      "gender": "Male",
+      "work": "Data Analyst"
+    },
+    {
+      "id": 23,
+      "email": "patricia.wilson@example.com",
+      "name": "Patricia",
+      "surname": "Wilson",
+      "birth_date": "1992-02-10",
+      "gender": "Female",
+      "work": "Teacher"
+    },
+    {
+      "id": 24,
+      "email": "david.johnson@example.com",
+      "name": "David",
+      "surname": "Johnson",
+      "birth_date": "1983-06-07",
+      "gender": "Male",
+      "work": "Marketing Specialist"
+    },
+    {
+      "id": 25,
+      "email": "lisa.moore@example.com",
+      "name": "Lisa",
+      "surname": "Moore",
+      "birth_date": "1995-09-14",
+      "gender": "Female",
+      "work": "UX Designer"
+    },
+    {
+      "id": 26,
+      "email": "matthew.jones@example.com",
+      "name": "Matthew",
+      "surname": "Jones",
+      "birth_date": "1980-12-29",
+      "gender": "Male",
+      "work": "Financial Advisor"
+    },
+    {
+      "id": 27,
+      "email": "jennifer.smith@example.com",
+      "name": "Jennifer",
+      "surname": "Smith",
+      "birth_date": "1991-03-22",
+      "gender": "Female",
+      "work": "Software Engineer"
+    },
+    {
+      "id": 28,
+      "email": "christopher.brown@example.com",
+      "name": "Christopher",
+      "surname": "Brown",
+      "birth_date": "1988-07-05",
+      "gender": "Male",
+      "work": "Architect"
+    },
+    {
+      "id": 29,
+      "email": "elizabeth.davis@example.com",
+      "name": "Elizabeth",
+      "surname": "Davis",
+      "birth_date": "1994-10-12",
+      "gender": "Female",
+      "work": "HR Specialist"
+    },
+    {
+      "id": 30,
+      "email": "roberta.moore@example.com",
+      "name": "Roberta",
+      "surname": "Moore",
+      "birth_date": "1985-01-18",
+      "gender": "Female",
+      "work": "Accountant"
+    },
+    {
+      "id": 31,
+      "email": "charles.thomas@example.com",
+      "name": "Charles",
+      "surname": "Thomas",
+      "birth_date": "1982-04-02",
+      "gender": "Male",
+      "work": "Web Developer"
+    },
+    {
+      "id": 32,
+      "email": "susan.wilson@example.com",
+      "name": "Susan",
+      "surname": "Wilson",
+      "birth_date": "1989-08-11",
+      "gender": "Female",
+      "work": "Marketing Manager"
+    },
+    {
+      "id": 33,
+      "email": "william.anderson@example.com",
+      "name": "William",
+      "surname": "Anderson",
+      "birth_date": "1987-11-05",
+      "gender": "Male",
+      "work": "Artist"
+    },
+    {
+      "id": 34,
+      "email": "laura.harris@example.com",
+      "name": "Laura",
+      "surname": "Harris",
+      "birth_date": "1993-02-28",
+      "gender": "Female",
+      "work": "Writer"
+    },
+    {
+      "id": 35,
+      "email": "mark.martin@example.com",
+      "name": "Mark",
+      "surname": "Martin",
+      "birth_date": "1986-06-15",
+      "gender": "Male",
+      "work": "Financial Analyst"
+    },
+    {
+      "id": 36,
+      "email": "emily.wilson@example.com",
+      "name": "Emily",
+      "surname": "Wilson",
+      "birth_date": "1990-09-23",
+      "gender": "Female",
+      "work": "Sales Manager"
+    },
+    {
+      "id": 37,
+      "email": "richard.smith@example.com",
+      "name": "Richard",
+      "surname": "Smith",
+      "birth_date": "1981-12-08",
+      "gender": "Male",
+      "work": "Mechanical Engineer"
+    },
+    {
+      "id": 38,
+      "email": "natalie.jones@example.com",
+      "name": "Natalie",
+      "surname": "Jones",
+      "birth_date": "1984-04-17",
+      "gender": "Female",
+      "work": "Account Manager"
+    },
+    {
+      "id": 39,
+      "email": "michael.brown@example.com",
+      "name": "Michael",
+      "surname": "Brown",
+      "birth_date": "1992-07-25",
+      "gender": "Male",
+      "work": "Product Designer"
+    },
+    {
+      "id": 40,
+      "email": "linda.martin@example.com",
+      "name": "Linda",
+      "surname": "Martin",
+      "birth_date": "1988-10-02",
+      "gender": "Female",
+      "work": "Chemist"
+    },
+    {
+      "id": 41,
+      "email": "daniel.smith@example.com",
+      "name": "Daniel",
+      "surname": "Smith",
+      "birth_date": "1983-01-11",
+      "gender": "Male",
+      "work": "Project Manager"
+    },
+    {
+      "id": 42,
+      "email": "sophia.johnson@example.com",
+      "name": "Sophia",
+      "surname": "Johnson",
+      "birth_date": "1991-04-30",
+      "gender": "Female",
+      "work": "Software Developer"
+    },
+    {
+      "id": 43,
+      "email": "james.wilson@example.com",
+      "name": "James",
+      "surname": "Wilson",
+      "birth_date": "1985-08-20",
+      "gender": "Male",
+      "work": "Biologist"
+    },
+    {
+      "id": 44,
+      "email": "olivia.brown@example.com",
+      "name": "Olivia",
+      "surname": "Brown",
+      "birth_date": "1987-11-14",
+      "gender": "Female",
+      "work": "Data Analyst"
+    },
+    {
+      "id": 45,
+      "email": "charles.wilson@example.com",
+      "name": "Charles",
+      "surname": "Wilson",
+      "birth_date": "1993-05-05",
+      "gender": "Male",
+      "work": "Teacher"
+    },
+    {
+      "id": 46,
+      "email": "sarah.smith@example.com",
+      "name": "Sarah",
+      "surname": "Smith",
+      "birth_date": "1980-09-28",
+      "gender": "Female",
+      "work": "Marketing Specialist"
+    },
+    {
+      "id": 47,
+      "email": "john.miller@example.com",
+      "name": "John",
+      "surname": "Miller",
+      "birth_date": "1994-01-17",
+      "gender": "Male",
+      "work": "UX Designer"
+    },
+    {
+      "id": 48,
+      "email": "lisa.jones@example.com",
+      "name": "Lisa",
+      "surname": "Jones",
+      "birth_date": "1982-03-12",
+      "gender": "Female",
+      "work": "Financial Advisor"
+    },
+    {
+      "id": 49,
+      "email": "oliver.lewis@masurao.jp",
+      "name": "Oliver",
+      "surname": "Lewis",
+      "birth_date": "1990-01-01",
+      "gender": "male",
+      "work": "Architect",
+      "subordinates": []
+    }
+  ]
+}
